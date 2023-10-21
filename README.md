@@ -1,5 +1,5 @@
 # Basics-
-A. Multiplication Table using 'for' loop.                                                                                                                                                                            
+**A. Multiplication Table using 'for' loop.**                                                                                                                                                                            
 The program takes a number and a limit as input and then prints the multiplication table for that number up to the given limit.                                                                                      
 Algorithm :
 
@@ -15,7 +15,7 @@ Algorithm :
 7. End of the program.                                                                                                                                                                                                
 
 
-B. Multiplication Table using 'while' loop.                                                                                                                                                                              
+**B. Multiplication Table using 'while' loop.**                                                                                                                                                                              
 The program takes a number and a limit as input and then prints the multiplication table for that number up to the given limit using a while loop.                                                                        
 Algorithm:
 
@@ -34,7 +34,7 @@ Algorithm:
 8. End of the program.
 
 
-C. Display 2 digit number in words.
+**C. Display 2 digit number in words.**
 The program takes a two-digit number as input and then prints the English words for each digit using a switch statement.                                                                                              
 Algorithm :
 
@@ -52,7 +52,7 @@ Algorithm :
 7. End of the program.                                                                                                                                                                                              
 
 
-D. Display a digit in words                                                                                                                                                                                            
+**D. Display a digit in words**                                                                                                                                                                                            
 The program takes a digit as input and then prints the English word for that digit using a switch statement.                                                                                                       
 Algorithm:
 
@@ -64,7 +64,7 @@ Algorithm:
 5. End of the program.
                                                                                                                                                                                                                   
                                                                                                                                                                                                                               
-E. Bit Shifting                                                                                                                                                                                                         
+**E. Bit Shifting**                                                                                                                                                                                                         
 The program reads an integer number and then left-shifts it by 8 bits to create a new integer newnumber.                                                                                                              
 Algorithm:
 
@@ -75,7 +75,7 @@ Algorithm:
 5. Display "New number after left shift: " followed by the value of 'newnumber'.
 6. End of the program.                                                                                                                                                                                              
                                                                                                                                                                                                                     
-F. Reverse a number                                                                                                                                                                                                  
+**F. Reverse a number**                                                                                                                                                                                                  
 The program reverses the digits of an input number.                                                                                                                                                                  
 Algorithm:
 
@@ -94,7 +94,7 @@ Algorithm:
 7. End of the program.
                                                                                                                                                                                                                     
                                                                                                                                                                                                                       
-G. Basic Operations on two integer inputs.
+**G. Basic Operations on two integer inputs.**
 The program takes three integer inputs (Var1, Var2, and Var3), performs various mathematical operations.                                                                                                                
 It assigns a new value to Var3. Here's the algorithm for your program:                                                                                                                                              
 Algorithm:
